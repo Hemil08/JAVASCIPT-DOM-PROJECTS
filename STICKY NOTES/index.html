@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sticky Notes Project</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="main">
+
+        <div id="upper_part">
+            <textarea name="_text" id="_text" placeholder="//Write a note here" rows="6" cols="60"></textarea>
+
+            <div id="color_part">
+
+                <!-- <img style="min-width:16px;min-height:16px;box-sizing:unset;box-shadow:none;background:unset;padding:0 6px 0 0;cursor:pointer;" src="chrome-extension://ohcpnigalekghcmgcdcenkpelffpdolg/img/icon16.png" title="Select with ColorPick Eyedropper - See advanced option: &quot;Add ColorPick Eyedropper near input[type=color] fields on websites&quot;" class="colorpick-eyedropper-input-trigger"> -->
+
+                <input type="color" id="color_Bar" value="#ccffcc" class="theme m-1 get-color" colorpick-eyedropper-active="true">
+
+                <button id="submit"> Add note</button>
+        
+            </div>
+
+        </div>
+
+        <div id="lower_part">
+
+            <h2> You haven't added notes yet.</h2>
+
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

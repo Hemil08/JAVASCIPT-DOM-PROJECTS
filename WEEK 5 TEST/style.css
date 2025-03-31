@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Poppins",'sans-sarif';
+}
+
+.first_part{
+    height: 98vh;
+    width: 100%;
+    background-color: rgb(243, 248, 255);
+    display: flex;
+    flex-direction: column;
+    /* font-weight: bold; */
+    align-items: center;
+}
+
+.header{
+    /* padding: 0px 45px; */
+    height:25%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    width: 82%;
+    font-size: 1.0rem;
+}
+
+.signUp{
+    background-color: rgb(92, 2, 246);
+    color: white;
+    border: none;
+    padding: 15px 22px;
+    font-weight: bold;
+    border-radius: 10px;
+    /* font-size: 1.0rem; */
+}
+
+/* BUY now section */
+
+.buyNow_section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.buyNow_section>h1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 3.8rem;
+    opacity: 0.8;
+    font-weight: bold;
+    /* justify-content: center; */
+}
+
+.buyNow_section>p{
+    /* font-weight: none; */
+    font-size: 1.2rem;
+    width: 65%;
+    text-align: center;
+}
+
+.buyNow_button{
+    background-color: rgb(92, 2, 246);
+    color: white;
+    border: none;
+    /* padding: 15px 22px; */
+    /* font-weight: bold; */
+    border-radius: 10px;
+    /* font-size: 1.0rem; */
+    width:100px;
+    height: 49px ;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Second Part */
+
+.second_page{
+    height: auto;
+    position: relative;
+    justify-content: center;
+    display: flex;
+}
+
+.image_section{
+    position: absolute;
+    top: -125px;
+    /* width: 300px; */
+    /* height: 300px; */
+}
+
+/* .image{
+    display: none;
+} */
+
+/* SEARCH PART */
+
+.search_part{
+    padding-top: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 45px;
+}
+
+.search_section{
+    gap:25px;
+}
+
+#search_bar{
+    width:300px;
+    height: 30px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.search_section_button{
+    background-color: rgb(92, 2, 246);
+    color: white;
+    border: none;
+    /* padding: 15px 22px; */
+    /* font-weight: bold; */
+    border-radius: 10px;
+    /* font-size: 1.0rem; */
+    width:150px;
+    height: 45px ;
+    font-weight: bold;
+    text-align: center;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 15px;
+    width: 90%;
+}
+
+.product{
+    box-shadow: 0px 20px 25px -5px rgb(202, 202, 202);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 1.5rem;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.product>p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+    font-size: 0.85rem;
+    width: 85%;
+}
+
+.product_button{
+    background-color: rgb(92, 2, 246);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width:180px;
+    height: 49px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/* Footer section */
+
+.footer{
+    height:30rem;
+    margin-top:5rem;
+    background-color: rgb(243,248,255);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.footer img{
+    height:60px;
+    margin-bottom: 1rem;
+}
+.footer span{
+    font-weight: 400;
+    font-size: 16px;
+}
+.footer p{
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.icons i{
+    margin-top: 1rem;
+    font-size: 2rem;
+}
+
+button:hover,#search:hover{
+    cursor: pointer;
+    background-color: brown;
+}

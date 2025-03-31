@@ -1,0 +1,43 @@
+#ball{
+    background: linear-gradient(#0097D1 0%,#00a2b3 10%,#00536c 50%,violet 100%);
+    height:100px;
+    width:100px;
+    position: absolute;
+    left: 1px;
+    top: 1px;
+    padding:30px;
+    text-align: center;
+    color:white;
+    border-radius: 50%;
+    box-shadow: inset 0 0 18px #fff, 
+                inset 6px 0 18px violet, 
+                inset -6px 0 18px #0ff, 
+                inset 6px 0 30px violet, 
+                inset -6px 0 30px #0ff, 
+                0 0 18px #fff, -4px 
+                0 18px violet, 4px 0 18px #0ff;
+
+}
+body{
+    /* background-image: url("./2.avif"); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+#ballsub{
+    border-radius: 50%;
+    height:95px;
+    width:95px;
+    background: linear-gradient(#00a2b3 10%,#00536c 50%,violet 100%,#0097D1 0%);
+    position: relative;
+}
+#ballsubsub{
+    border-radius: 50%;
+    height:50px;
+    width:50px;
+    background: linear-gradient(#0097D1 0%,#00a2b3 10%,#00536c 50%,violet 100%);
+    position: absolute;
+    left:20px;
+    top:20px;
+
+}

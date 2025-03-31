@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google pay replica</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="main">
+
+        <div class="container">
+
+            <div class="loader"></div>
+
+            <div class="wrapper ">
+                <svg class="checkmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52">
+                    <circle class="checkmark__circle" cx="26" cy="26" r="25" fill="none"></circle>
+                    <path class="checkmark__check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"></path>
+                </svg>
+                <p class="Payment_done_message"></p>
+
+                
+            </div>
+
+            <div class="main_Container">
+
+                <div class="upper_part">
+
+                    <img id="profile_photo_img" src="profile_photo.jpg" alt="Profile Photo">
+
+                    <div class="contact_detail">
+                        <h2>Paying the bill</h2>
+                        <p>hemilsorathiya008@gmail.com</p>
+                    </div>
+
+                    <div class="amount_class">
+                        $ <input type="number" min="1" max="100000" id="myvalue">
+                    </div>
+                </div>
+
+                <hr>
+
+                <div class="down_part">
+                    <p id="heading">Choose account to pay with</p>
+
+                    <div class="bank_section">
+                        <img class="bank_logo_img" src="bob (1).png" alt="">
+
+                        <div class="bank_sub">
+                            <p>
+                                "HDFC Bank RuPay credit card"
+                                <br>
+                                ***XX94
+                            </p>
+                            <span>RuPay Credit Card</span>
+                        </div>
+                    </div>
+
+
+                </div>
+
+                <button class="submit">Make Payment</button>
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+
+<script src="script.js"></script>
+
+</html>

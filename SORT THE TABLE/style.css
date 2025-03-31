@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    /* margin-top: 15px; */
+    width: 98%;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+button{
+    margin: 15px 15px 15px 15px;
+    padding: 5px 15px;
+    font-size: medium;
+    background-color: black;
+    font-weight: bold;
+    color:white;
+    border:none;
+    cursor: pointer;
+}
