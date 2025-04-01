@@ -50,3 +50,51 @@ https://github.com/user-attachments/assets/4abf9c89-dd2d-46ca-9288-c7daafd1c1a4
 https://github.com/user-attachments/assets/1c5e101e-06dd-481a-a408-e42f50b15711
 
 ---------------------
+
+9. IMAGE SEARCH APP
+
+https://github.com/user-attachments/assets/ce67edb4-bcb9-458d-b37f-a987b310fc88
+
+---------------------
+
+10. LEADERBORD PROJECT
+
+https://github.com/user-attachments/assets/f329cdf8-b050-415c-8b2f-23c95ebf2670
+
+--------------------
+
+11. MINI CALANDER
+
+![image](https://github.com/user-attachments/assets/88ee66d5-de17-4406-9ff0-7679874ae257)
+
+------------------
+
+12. MOVE THE BALL
+
+-> move the ball using arrow keys
+
+https://github.com/user-attachments/assets/c7a0070e-e834-406d-950c-50bbbfa76e72
+
+-----------------
+
+13. REAL TIME CALCULATOR
+
+https://github.com/user-attachments/assets/7d0a4b19-95f7-4490-8bed-de2ea2ab2395
+
+-----------------
+
+14. SORT THE TABLE
+
+https://github.com/user-attachments/assets/9487935a-3712-4a5a-bbcc-efabde50537c
+
+-----------------
+
+15. SPOTIFY CLONE
+
+![image](https://github.com/user-attachments/assets/90079090-1f55-4444-a704-e8a09b9b5600)
+
+-----------------
+
+16. TAB SELECTOR
+
+https://github.com/user-attachments/assets/77919b99-4456-42c8-a36a-5d6ddf422ce5
