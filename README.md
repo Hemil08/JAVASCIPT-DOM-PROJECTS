@@ -21,3 +21,32 @@ https://github.com/user-attachments/assets/80351223-25f8-4317-b53e-42cdbdea3366
 
 ----------------------
 
+4. FILTER SEARCH TABLE
+
+https://github.com/user-attachments/assets/d74eb3eb-cd2b-4473-9127-acaa095fb687
+
+---------------------
+
+5. CHANGE SHAPE AND COLOR
+
+https://github.com/user-attachments/assets/4819bed2-98ce-487d-b611-5c47e6cf035f
+
+--------------------
+
+6. GITHUB FINDER
+
+https://github.com/user-attachments/assets/4d258648-3f7e-48a3-9d79-8e8a9920e3ef
+
+---------------------
+
+7. GOOGLE PAY RAPLICA
+
+https://github.com/user-attachments/assets/4abf9c89-dd2d-46ca-9288-c7daafd1c1a4
+
+------------------------
+
+8. GENERATING THE KEYBOARD CODE
+
+https://github.com/user-attachments/assets/1c5e101e-06dd-481a-a408-e42f50b15711
+
+---------------------
